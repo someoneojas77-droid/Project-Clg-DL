@@ -23,9 +23,11 @@ on Google Forms.
 
 - [Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/1LosHdwgloFZ57Cd6rnhLE20Y3kP3JWbWHohXLI4V7yk)
 
-**Task 4 — Email Etiquette:** (Coming soon)
+**Task 4 — Email Etiquette:** Drafted two professional emails and 
+created a Social Media Do's and Don'ts checklist.
 
-**Task 5 — Cybercrime:** (Coming soon)
+**Task 5 — Cybercrime:** Wrote a case study on UPI/Online Payment 
+Fraud and created a Stay Safe Online prevention checklist.
 
 ---
 
