@@ -17,7 +17,11 @@ digital tools, and professional online presence.
 **Task 2 — Digital Portfolio:** Set up professional profiles on 
 GitHub, LinkedIn, and Kaggle.
 
-**Task 3 — Platforms:** (Coming soon)
+**Task 3 — Platforms:** Completed the "Solve Me First" challenge on 
+HackerRank and created a 5-question Digital Literacy Awareness Quiz 
+on Google Forms.
+
+- [Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/1LosHdwgloFZ57Cd6rnhLE20Y3kP3JWbWHohXLI4V7yk)
 
 **Task 4 — Email Etiquette:** (Coming soon)
 
