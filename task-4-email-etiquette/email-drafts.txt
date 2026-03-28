@@ -1,0 +1,64 @@
+Email 1 — Requesting assignment extension:
+
+Subject: Request for Extension on Assignment Submission — [Course Name]
+
+Dear Professor [Last Name],
+
+I hope this email finds you well. I am Ojas Tripathi, a first-year 
+B.Tech CSE (AI & ML) student (Reg. No. 25BAI10208) enrolled in your 
+course [Course Name].
+
+I am writing to respectfully request a short extension of 2–3 days 
+for the upcoming assignment due on [due date]. Due to [brief genuine 
+reason — e.g. "a medical issue" or "overlapping deadlines this week"], 
+I have been unable to complete the work to the standard I would like 
+to submit.
+
+I assure you that I am actively working on it and will submit the 
+completed assignment by [new proposed date]. I sincerely apologise 
+for any inconvenience caused.
+
+Thank you for your understanding and consideration.
+
+Warm regards,
+Ojas Tripathi
+B.Tech CSE (AI & ML) | 1st Year
+Reg. No. 25BAI10208
+VIT Bhopal University
+ojas.25bai10208@vitbhopal.ac.in
+
+
+=============================================================================
+
+
+Email 2 — Internship interest:
+
+Subject: Application for Summer Internship Opportunity — B.Tech CSE Student
+
+Dear [Hiring Manager's Name / "Internship Coordinator"],
+
+I hope you are doing well. My name is Ojas Tripathi and I am a 
+first-year B.Tech student specialising in Computer Science with 
+Artificial Intelligence and Machine Learning at VIT Bhopal University.
+
+I am writing to express my keen interest in a summer internship 
+opportunity at [Company Name]. I am eager to apply my foundational 
+knowledge of programming, AI concepts, and digital tools in a 
+real-world environment, and I believe your organisation would be an 
+excellent place to learn and grow.
+
+I am a quick learner, highly motivated, and committed to contributing 
+meaningfully to any project I am assigned. I would be grateful for 
+the opportunity to discuss how I can add value to your team.
+
+Please find my GitHub profile for reference:
+https://github.com/someoneojas77-droid
+
+I would welcome the chance to connect at your convenience. Thank you 
+for considering my application.
+
+Yours sincerely,
+Ojas Tripathi
+B.Tech CSE (AI & ML) | 1st Year
+VIT Bhopal University
+ojas.25bai10208@vitbhopal.ac.in
